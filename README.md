@@ -6,7 +6,7 @@ Modify project `name` of `create-react-app-initial-demo/package.json`:
 ``` json
 {
   // "name": "create-react-app-initial-demo",
-  "name": PROJECT_NAME,
+  "name": "PROJECT_NAME",
   "version": "0.1.0",
   "private": true,
   
