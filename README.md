@@ -1,3 +1,7 @@
+We can use **React Initializr** - Quickstart project generator for React apps bundled using Webpack 5 with support for the latest React toolchain.
+
+https://react-initializr.dev/
+
 ## create-react-app-initial-demo 
 ### Download project
 ``` sh
